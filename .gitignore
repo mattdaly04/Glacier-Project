@@ -13,4 +13,5 @@ wheels/
 *.joblib
 *.parquet
 *.csv
+*.pt
 
